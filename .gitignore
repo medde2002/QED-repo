@@ -1,5 +1,2 @@
-echo "static/data/" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo ".DS_Store" >> .gitignore
-echo "venv/" >> .gitignore
+static/data/
 
